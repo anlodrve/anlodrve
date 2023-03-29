@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">I'm a software engineer and educator</h3>
 
 - I’m currently working on **a client project at Prime Digital Academy**
