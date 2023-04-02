@@ -9,7 +9,7 @@
 
 - How to reach me **andrealove@gmail.com**
 
-- Fun fact **I enjoy caring for my jungle of houseplants, Appalachian clog dancing, and singing karaoke.**
+- Fun fact:  **I enjoy caring for my jungle of houseplants, Appalachian clog dancing, and singing karaoke.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
