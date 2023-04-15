@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">I'm a software engineer and educator</h3>
 
-- I’m currently working on **a client project at Prime Digital Academy**
-
-- I’m currently learning **.NET and C#**
+- I’m currently working on **a project for a client, OMI Live Shopping**
 
 - Ask me about **Google Maps API and React**
 
